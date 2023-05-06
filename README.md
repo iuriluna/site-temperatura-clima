@@ -1,7 +1,7 @@
 # Site para Previsão do Tempo
 
 ## 📝 Apresentação:
-Projeto para previsão do tempo onde o usuário pode verificar o clima em qualquer cidade pelo mundo em tempo real.
+Projeto para verificação do tempo onde o usuário pode olhar o clima em qualquer cidade pelo mundo em tempo real.
 API consumida: HG Weather (https://hgbrasil.com/status/weather/)
 
 ## 🎨 Resultado:
