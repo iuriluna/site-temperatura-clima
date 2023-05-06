@@ -1,4 +1,4 @@
-# site para Previsão do tempo
+# Site para Previsão do Tempo
 
 ## 📝 Apresentação:
 Projeto para previsão do tempo onde o usuário pode verificar o clima em qualquer cidade pelo mundo em tempo real.
